@@ -1,0 +1,6 @@
+{
+  "name": "تدبير الدعم المكثف ورائز التمرير",
+  "description": "برنامج شامل لتدبير الدعم المكثف، تنظيم أفواج وفئات التلاميذ، إسناد مهام الأساتذة، توليد أوراق التمرير للطباعة A4 وPDF، رصد نتائج المعايير، وتحليل التعلمات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
